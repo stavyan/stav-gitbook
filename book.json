@@ -1,12 +1,11 @@
 {
   "gitbook": "3.2.3",
-  "title": "stav yan",
-  "description": "http://wuxiaolong.me/",
-  "author": "WuXiaolong",
+  "title": "斯塔夫部落格",
+  "description": "https://stavtop.club",
+  "author": "stanyan",
   "language": "zh-hans",
   "links": {
     "sidebar": {
-
     }
   },
   "plugins": ["github",
@@ -45,7 +44,7 @@
       "url": "https://github.com/WuXiaolong"
     },
     "donate": {
-      "wechat": "http://7q5c2h.com1.z0.glb.clouddn.com/wechatpay.JPG",
+      "wechat": "https://stavyan.github.io/stav-gitbook/img/dashang.JPG",
       "title": "",
       "button": "赏",
       "wechatText": "微信打赏"
@@ -55,7 +54,6 @@
       "showLevel":true,
       "multipleH1": true,
       "mode": "float",
-
       "pageTop": {
         "showLevelIcon": false,
         "level1Icon": "fa fa-hand-o-right",

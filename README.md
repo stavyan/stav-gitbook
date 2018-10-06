@@ -1,6 +1,6 @@
 ## GitBook 使用
 
-出于博客总结归纳的想法，于是找到了 GitBook，我把它做为博客的备份。顺带学习了 GitBook用法。
+出于博客总结归纳的想法，于是找到了 GitBook，我把它做为博客的备份。顺带学习了 GitBook用法。[预览地址](https://www.stavtop.club/stavblog)。
 
 
 ## 准备工作
