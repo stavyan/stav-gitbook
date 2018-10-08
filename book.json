@@ -1,79 +1,72 @@
 {
-  "gitbook": "3.2.3",
-  "title": "斯塔夫部落格",
-  "description": "https://stavtop.club",
-  "author": "stanyan",
-  "language": "zh-hans",
-  "links": {
-    "sidebar": {
-    }
-  },
-  "plugins": ["github",
-    "donate",
-    "splitter",
-    "anchor-navigation-ex",
-    "-sharing",
-    "sharing-plus",
-    "-highlight",
-    "prism"
-  ],
-  "pluginsConfig": {
-    "sharing": {
-      "douban": false,
-      "facebook": false,
-      "google": false,
-      "hatenaBookmark": false,
-      "instapaper": false,
-      "line": false,
-      "linkedin": false,
-      "messenger": false,
-      "pocket": false,
-      "qq": false,
-      "qzone": false,
-      "stumbleupon": false,
-      "twitter": false,
-      "viber": false,
-      "vk": false,
-      "weibo": false,
-      "whatsapp": false,
-      "all": [
-        "weibo","qq","qzone","google","douban"
-      ]
-    },
-    "github": {
-      "url": "https://github.com/WuXiaolong"
-    },
-    "donate": {
-      "wechat": "https://stavyan.github.io/stav-gitbook/img/dashang.JPG",
-      "title": "",
-      "button": "赏",
-      "wechatText": "微信打赏"
-    },
-    "anchor-navigation-ex": {
-      "associatedWithSummary":false,
-      "showLevel":true,
-      "multipleH1": true,
-      "mode": "float",
-      "pageTop": {
-        "showLevelIcon": false,
-        "level1Icon": "fa fa-hand-o-right",
-        "level2Icon": "fa fa-hand-o-right",
-        "level3Icon": "fa fa-hand-o-right"
-      }
-    },
-    "theme-default": {
-      "showLevel": true
-    },
-    "fontsettings": {
-      "theme": "white",
-      "family": "serif",
-      "size": 2
-    },
-    "prism": {
-      "css": [
-        "prismjs/themes/prism-tomorrow.css"
-      ]
-    }
-  }
-
+	"gitbook": "3.2.3",
+	"title": "斯塔夫部落格",
+	"description": "https://stavtop.club",
+	"author": "stanyan",
+	"language": "zh-hans",
+	"links":{
+		"sidebar":{
+			"Home":"http://stavtop.club/"
+		}
+	},
+	"plugins":[
+		"-lunr",
+		"-search",
+		"-livereload",
+		"splitter",
+		"anchor-navigation-ex",
+		"-sharing",
+		"sharing-plus",
+		"donate",
+		"search-plus",
+		"github",
+		"advanced-emoji",
+		"anchors",
+		"splitter",
+		"tbfed-pagefooter",
+		"expandable-chapters-small",
+		"sectionx",
+		"local-video",
+		"favicon"
+	],
+	"pluginsConfig":{
+		"theme-default":{
+			"showLevel":true
+		},
+		"github":{
+			"url":"https://github.com/stavyan/stav-gitbook"
+		},
+		"sharing":{
+			"weibo":true,
+			"facebook":false,
+			"twitter":false,
+			"google":false,
+			"qq": true,
+			"all":[
+				"facebook",
+				"google",
+				"twitter",
+				"weibo",
+				"qq"
+			]
+		},
+		"donate": {
+			"wechat": "https://stavyan.github.io/stav-gitbook/img/dashang.JPG",
+			"title": "",
+			"button": "赏",
+			"wechatText": "微信打赏"
+		},
+		"tbfed-pagefooter":{
+			"copyright":"Copyright © stavtop.club 2018",
+			"modify_label":"该文件修订时间：",
+			"modify_format":"YYYY-MM-DD HH:mm:ss"
+		},
+		"sectionx":{
+			"tag":"b"
+		},
+		"favicon":{
+			"shortcut":"favicon.ico",
+			"bookmark":"favicon.ico"
+		}
+	}
 }
