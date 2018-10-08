@@ -9,8 +9,8 @@
 * [Python基础](/python/basis.md)
   * [Python框架](/python/basis/a.md)
   * [Python集合](/python/basis/b.md)
-  * [Python框架](/python/basis/a.md)
-  * [Python集合](/python/basis/b.md)
+  * [Python框架](/python/basis/c.md)
+  * [Python集合](/python/basis/d.md)
 
   
 ## VueJS

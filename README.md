@@ -207,8 +207,8 @@ GitBook 默认带有5个插件：
 - QQ：617946852
 - Email：stavyan@qq.com
 - WeChat stav_yan
-![wx](https://stavyan.github.io/stav-gitbook/img/wx.JPG)
-
-
+<div align="center">
+	<img width="300" height="400" src="https://stavyan.github.io/stav-gitbook/img/wx.JPG" />
+</div>
 ### 最后
 > 欢迎进入笔者的私人空间---[斯塔夫部落格](https://stavtop.club)
