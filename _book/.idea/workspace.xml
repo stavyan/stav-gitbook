@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa9ffdda-7ca3-47e9-bf5a-2b0570180638" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/basis/c.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/basis/d.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/python/basis.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/python/basis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/python/basis/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/python/basis/a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/python/basis/b.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/python/basis/b.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_plus_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_plus_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/basis/a.md" beforeDir="false" afterPath="$PROJECT_DIR$/python/basis/a.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/basis/b.md" beforeDir="false" afterPath="$PROJECT_DIR$/python/basis/b.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,8 +17,12 @@
     <session id="444906966">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,23 +43,25 @@
         <counts>
           <entry key="json" value="156" />
           <entry key="md" value="354" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="156" />
           <entry key="Markdown" value="354" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="103">
+              <first_editor relative-caret-position="228">
                 <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               </first_editor>
               <second_editor />
@@ -79,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="392">
-                <caret line="210" column="31" selection-start-line="210" selection-start-column="31" selection-end-line="210" selection-end-column="31" />
+              <first_editor relative-caret-position="222">
+                <caret line="202" column="6" selection-start-line="202" selection-start-column="6" selection-end-line="202" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -126,9 +120,76 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/boolbase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cheerio/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/clipboard/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-select/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-what/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/delegate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/emojify.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-advanced-emoji/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-anchor-navigation-ex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-anchors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-expandable-chapters-small/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-favicon/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-github/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-local-video/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-prism/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-search-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-sectionx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-sharing-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-tbfed-pagefooter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gitbook-plugin-toggle-chapters/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/github-slugid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/good-listener/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/html-entities/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.assignin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.bind/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.defaults/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.filter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.flatten/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.foreach/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.merge/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.pick/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.reduce/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.reject/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.some/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nth-check/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/prismjs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/select/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tiny-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="575" />
-    <option name="y" value="23" />
+    <option name="x" value="326" />
+    <option name="y" value="39" />
     <option name="width" value="1594" />
     <option name="height" value="960" />
   </component>
@@ -146,17 +207,6 @@
             <path>
               <item name="stav-gitbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="stav-gitbook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stav-gitbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stav-gitbook" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stav-gitbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stav-gitbook" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="basis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,24 +254,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538981833534</updated>
-      <workItem from="1538981834784" duration="7796000" />
+      <workItem from="1538981834784" duration="8723000" />
+      <workItem from="1539047570023" duration="2208000" />
+      <workItem from="1539135004037" duration="1662000" />
+      <workItem from="1539306246260" duration="108000" />
     </task>
+    <task id="LOCAL-00001" summary="gitbook init">
+      <created>1538994759998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538994759998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7796000" />
+    <option name="totallyTimeSpent" value="12701000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="575" y="23" width="1594" height="960" extended-state="0" />
-    <editor active="true" />
+    <frame x="326" y="39" width="1594" height="960" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24984106" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24984106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.27764976" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -229,6 +285,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2764977" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -240,60 +300,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitbook init" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitbook init" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python/1.1 安装.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/base/b.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/base.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/basis/a.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/base/a.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS/basis.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/1.1 安装.md" />
+    <entry file="file://$PROJECT_DIR$/python/base/b.md" />
+    <entry file="file://$PROJECT_DIR$/python/base.md" />
+    <entry file="file://$PROJECT_DIR$/NodeJS/basis/a.md" />
+    <entry file="file://$PROJECT_DIR$/python/base/a.md" />
+    <entry file="file://$PROJECT_DIR$/NodeJS/basis.md" />
     <entry file="file://$PROJECT_DIR$/python/basis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -354,7 +371,7 @@
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="103">
+          <first_editor relative-caret-position="228">
             <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           </first_editor>
           <second_editor />
@@ -364,8 +381,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="392">
-            <caret line="210" column="31" selection-start-line="210" selection-start-column="31" selection-end-line="210" selection-end-column="31" />
+          <first_editor relative-caret-position="222">
+            <caret line="202" column="6" selection-start-line="202" selection-start-column="6" selection-end-line="202" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
